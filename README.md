@@ -1,7 +1,7 @@
 
 # GUIDED SAMPLING BASED FEATURE AGGREGATION FOR VIDEO OBJECT DETECTION
 
-Official code for GUIDED SAMPLING BASED FEATURE AGGREGATION FOR VIDEO OBJECT DETECTION By Jun Liang, Haosheng Chen, Yan Yan, Yang Lu, Hanzi Wang.
+Official code for GUIDED SAMPLING BASED FEATURE AGGREGATION FOR VIDEO OBJECT DETECTION.
 
 ## Installation
 Our GSFA is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please refer to [INSTALL.md](docs/INSTALL.md) for installation and dataset preparation.
